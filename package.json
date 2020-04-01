@@ -1,0 +1,8 @@
+{
+  "name": "dali_mini_course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/katherinel09/dali_mini_course.git",
+  "author": "Katherine Lasonde <kfml09@gmail.com>",
+  "license": "MIT"
+}
